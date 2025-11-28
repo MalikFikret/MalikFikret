@@ -10,9 +10,9 @@
 
   <text x="27" y="14" fill="white"
         font-family="Verdana, Geneva, sans-serif"
-        font-size="13"
+        font-size="12"
         font-weight="400"
-        letter-spacing="0.7">
+        letter-spacing="0.5">
     LinkedIn
   </text>
 </svg>
