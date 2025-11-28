@@ -49,4 +49,18 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 
+  <!-- Email -->
+  <a href="mailto:malikfikretcontact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Email"/>
+  </a>
+
 </p>
+
+  <!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikFikret&theme=dark&background=071A2C&ring=1DA1F2&fire=1DA1F2&currStreakLabel=ffffff" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MalikFikret&label=Profile%20Views&color=071A2C&style=flat-square&logo=github&logo_color=white" alt="Malik Fikret's Profile Views" />
+</p>
+
