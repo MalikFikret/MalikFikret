@@ -21,7 +21,7 @@
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/malikfikret" target="_blank">
-    <img src="https://github.com/MalikFikret/MalikFikret/blob/main/assets/linkedin-white.svg" height="21" alt="LinkedIn"/>
+    <img src="https://github.com/MalikFikret/MalikFikret/blob/main/assets/linkedin-white.svg" height="20" alt="LinkedIn"/>
   </a>
 
   <!-- Instagram -->
