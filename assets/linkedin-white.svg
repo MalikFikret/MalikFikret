@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="90" height="20" viewBox="0 0 90 20">
-  <rect width="90" height="20" rx="3" fill="#071A2C"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="20" viewBox="2 0 90 20">
+  <rect width="130" height="20" rx="3" fill="#071A2C"/>
   <svg x="5" y="2" width="16" height="16" viewBox="0 0 24 24" fill="white">
     <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.762 2.239 5 5 5h14c2.762 
              0 5-2.238 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-10h3v10zm-1.5
@@ -8,9 +8,9 @@
              -4-3.113-4 0v5.604h-3v-10h3v1.65c1.396-2.586 7-2.777 7 2.476v5.874z"/>
   </svg>
 
-  <text x="30" y="14" fill="white"
+  <text x="27" y="14" fill="white"
         font-family="Verdana, Geneva, sans-serif"
-        font-size="11"
+        font-size="13"
         font-weight="400"
         letter-spacing="0.7">
     LinkedIn
