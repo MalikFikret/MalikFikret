@@ -35,9 +35,9 @@
   </a>
 
   <!-- Snapchat -->
-  <a href="https://www.snapchat.com/add/malikfikret" target="_blank">
+  <!-- <a href="https://www.snapchat.com/add/malikfikret" target="_blank">
     <img src="https://img.shields.io/badge/Snapchat-%23FFFC00.svg?&style=flat-square&logo=snapchat&logoColor=white&color=071A2C" alt="Snapchat"/>
-  </a>
+  </a> -->
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/malikfikret" target="_blank">
