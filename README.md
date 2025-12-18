@@ -58,7 +58,7 @@
 
   <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MalikFikret&theme=dark&background=071A2C&ring=1DA1F2&fire=1DA1F2&currStreakLabelColor=ffffff&cache_buster=1" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MalikFikret&show_icons=true&theme=dark&bg_color=071A2C&title_color=1DA1F2&text_color=ffffff&icon_color=1DA1F2" alt="Malik's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MalikFikret&label=Profile%20Views&color=071A2C&style=flat-square&logo=github&logo_color=white" alt="Malik Fikret's Profile Views" />
