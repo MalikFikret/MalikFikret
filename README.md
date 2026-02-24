@@ -50,9 +50,9 @@
   </a>
 
   <!-- Email -->
-  <a href="mailto:malikfikretcontact@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Email"/>
-  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=malikfikretcontact@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Email"/>
+</a>
 
 </p>
 
